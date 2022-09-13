@@ -1,0 +1,8 @@
+*{margin: 0;padding: 0;
+    box-sizing: border-box;}
+    
+    .header{width: 100%;
+    background-color: rgb(138, 9, 9);
+    .navbar-brand{color: white!important;}
+    .nav-link{color: white!important;}
+    .nav-link:hover{color: rgb(55, 235, 235)!important;}
